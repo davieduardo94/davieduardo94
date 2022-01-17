@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on learnig about new technologies
+- 🌱 I’m currently learning about Development Python, Django, Docker, API's and more
+- 👯 I’m looking to collaborate on any thing wich a can help
+- 🤔 I’m looking for help with development, if you have an experience and love's teach, please help me! I'll be gratefully
+- 💬 Ask me about any thing, if a can't response, i'll be search a response and bring to you more ideas
+- 📫 How to reach me: profissionaldavieduardo@gmail.com
 <!--
 **davieduardo94/davieduardo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
