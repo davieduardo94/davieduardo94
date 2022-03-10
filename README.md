@@ -45,9 +45,9 @@
 - 💬 Ask me about any thing, if a can't response, i'll be search a response and bring to you more ideas
 - 📫 How to reach me: profissionaldavieduardo@gmail.
   
-  ## Projects
+## Projects
   
-  ### [Landing Page - Academia](https://davieduardo94.github.io/landing_page_academia/)
+### [Landing Page - Academia](https://davieduardo94.github.io/landing_page_academia/)
   <a href="https://davieduardo94.github.io/landing_page_academia/" target="_blank">
       <img align="center" alt="davi-dart" height="700" width="950" src="https://github.com/davieduardo94/landing_page_academia/blob/master/img/screenshot.PNG">
     </a> 
