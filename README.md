@@ -47,11 +47,13 @@
   
 ## Projects
   
-### [Landing Page - Academia](https://davieduardo94.github.io/landing_page_academia/)
+### Landing Page - Academia
+   Developed with HTML and CSS, the project is under updates.
+  <div align="center" style="display: inline_block"> 
   <a href="https://davieduardo94.github.io/landing_page_academia/" target="_blank">
-      <img align="center" alt="davi-dart" height="700" width="950" src="https://github.com/davieduardo94/landing_page_academia/blob/master/img/screenshot.PNG">
+      <img align="center" alt="landing_page academia"  src="https://github.com/davieduardo94/landing_page_academia/blob/master/img/screenshot.PNG">
     </a> 
- 
+ </div>
  
  
  
