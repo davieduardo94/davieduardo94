@@ -16,7 +16,7 @@
   <img align="center" alt="davi-django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="davi-docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="davi-postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="davi-php" height="40" width="40" padding-right="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="davi-php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="davi-mysql" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="davi-flutter" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="davi-dart" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
@@ -24,7 +24,6 @@
   
   ## Social
  
-<div> 
   <div align="center" style="display: inline_block"><br>
     <a href="https://instagram.com/edubarbosa94" target="_blank">
        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
