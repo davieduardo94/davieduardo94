@@ -1,6 +1,12 @@
 
-
-
+ ## See my resume!
+ <div align="center">
+  <a href="https://www.smartr.me/me/davi.gamabarbosa" target="_blank">
+    <img align="center" width=200 alt="resume"  src="https://github.com/davieduardo94/davieduardo94/blob/main/Icons/resume-cv.svg">
+   </a>
+</div>
+ 
+ ## GitHub Stats
 <div align="center">
   <a href="https://github.com/davieduardo94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davieduardo94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
