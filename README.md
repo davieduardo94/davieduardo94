@@ -1,11 +1,3 @@
-
- ## See my resume!
- <div align="center">
-  <a href="https://www.smartr.me/me/davi.gamabarbosa" target="_blank">
-    <img align="center" width=200 alt="resume"  src="https://github.com/davieduardo94/davieduardo94/blob/main/Icons/resume-cv.svg">
-   </a>
-</div>
- 
  ## GitHub Stats
 <div align="center">
   <a href="https://github.com/davieduardo94">
@@ -17,15 +9,14 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="davi-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="davi-Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="davi-sqlserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <a aling="center" href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqllite" width="40" height="40"/> </a>
+  <img align="center" alt="davi-sqlserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="davi-anaconda" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="davi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="davi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="davi-bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="davi-django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="davi-docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="davi-postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="davi-mysql" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="davi-flutter" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="davi-dart" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
