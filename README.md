@@ -39,7 +39,7 @@
  </div>
   
 ### Hi there 👋
-- 🔭 I’m currently working on Tech Analist at Sidia Insituto de Ciência e Tecnologia
+- 🔭 I’m currently working on Software Developer - Project Leader at Sidia Insituto de Ciência e Tecnologia
 - 🌱 I’m currently learning about Development Python, Django, Docker, API's and more
 - 👯 I’m looking to collaborate on any thing wich a can help
 - 🤔 I’m looking for help with development, if you have an experience and love's teach, please help me! I'll be gratefully
