@@ -10,6 +10,7 @@
   <img align="center" alt="davi-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="davi-Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="davi-sqlserver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="davi-flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="davi-anaconda" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="davi-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="davi-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -38,7 +39,7 @@
  </div>
   
 ### Hi there 👋
-- 🔭 I’m currently working on Tech Analist at São Lucas Porto Velho
+- 🔭 I’m currently working on Tech Analist at Sidia Insituto de Ciência e Tecnologia
 - 🌱 I’m currently learning about Development Python, Django, Docker, API's and more
 - 👯 I’m looking to collaborate on any thing wich a can help
 - 🤔 I’m looking for help with development, if you have an experience and love's teach, please help me! I'll be gratefully
@@ -46,5 +47,5 @@
 - 📫 How to reach me: profissionaldavieduardo@gmail.
   
  Version: 
-    <br><a href="#"><img src="https://img.shields.io/badge/1.0.4-Pass-green"></a>
+    <br><a href="#"><img src="https://img.shields.io/badge/1.0.5-Pass-green"></a>
 
