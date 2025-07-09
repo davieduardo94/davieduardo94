@@ -27,7 +27,7 @@
   ## Social
  
   <div align="center" style="display: inline_block"><br>
-    <a href="https://instagram.com/edubarbosa94" target="_blank">
+    <a href="https://instagram.com/daviibarbosa94" target="_blank">
        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href = "mailto:profissionaldavieduardo@gmail.com">
@@ -47,5 +47,5 @@
 - 📫 How to reach me: profissionaldavieduardo@gmail.
   
  Version: 
-    <br><a href="#"><img src="https://img.shields.io/badge/1.0.5-Pass-green"></a>
+    <br><a href="#"><img src="https://img.shields.io/badge/1.0.6-Pass-green"></a>
 
